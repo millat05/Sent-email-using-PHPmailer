@@ -82,6 +82,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-MD MILLAT HOSEN (codermillat)
+MD MILLAT HOSEN (@codermillat)
 
 Feel free to fork, modify, and use this project for your needs. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
